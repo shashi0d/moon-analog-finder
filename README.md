@@ -7,8 +7,6 @@ Pick a spot at the lunar south pole, say what you need to test, and get the Eart
 ## Findings
 See `docs/FINDINGS.md` for what the search found and three characterised candidate sites (East Greenland, the south-east Pamir on the Afghanistan and Tajikistan border, and Tarso Tousside in the Tibesti massif), with what matches, where each analogy breaks and what is not established.
 
-Live app: https://shashidharprakash33--moon-analog-finder-web.modal.run
-
 ## Use the app
 Open the hosted link, or locally:
 
